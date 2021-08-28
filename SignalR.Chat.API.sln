@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.Chat.API.Data", "SignalR.Chat.API\SignalR.Chat.API.Data\SignalR.Chat.API.Data.csproj", "{4C010D58-DB8B-4A0E-B89F-9A8BBEF4F612}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.Chat.API.Entities", "SignalR.Chat.API\SignalR.Chat.API.Entities\SignalR.Chat.API.Entities.csproj", "{23971171-21AD-4536-8FBD-7E208CAB928C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR.Chat.API.Web", "SignalR.Chat.API\SignalR.Chat.API.Web\SignalR.Chat.API.Web.csproj", "{86D6AD26-6899-404A-92D6-B970C631CFA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C010D58-DB8B-4A0E-B89F-9A8BBEF4F612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C010D58-DB8B-4A0E-B89F-9A8BBEF4F612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C010D58-DB8B-4A0E-B89F-9A8BBEF4F612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C010D58-DB8B-4A0E-B89F-9A8BBEF4F612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23971171-21AD-4536-8FBD-7E208CAB928C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23971171-21AD-4536-8FBD-7E208CAB928C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23971171-21AD-4536-8FBD-7E208CAB928C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23971171-21AD-4536-8FBD-7E208CAB928C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D6AD26-6899-404A-92D6-B970C631CFA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D6AD26-6899-404A-92D6-B970C631CFA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D6AD26-6899-404A-92D6-B970C631CFA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D6AD26-6899-404A-92D6-B970C631CFA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
